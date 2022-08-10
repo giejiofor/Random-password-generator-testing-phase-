@@ -1,0 +1,87 @@
+#content {
+    height: 550px;
+    width: 550px;
+    background-color: #1F2937;
+    top: 64px;
+    left: 62px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+#text1 {
+padding: 50px;
+margin-top: 50px;
+color: white;
+font-size: 50px;
+font-weight: 800px;
+}
+
+#ctext {
+color: #10B981
+}
+
+h3 {
+    padding: 50px;
+    margin-top: -120px;
+    color: #D5D4D8;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.btn {
+    height: 42px;
+    width: 223px;
+    left: 52px;
+    top: 287px;
+    border-radius: 6px;
+    padding: 9px, 17px, 9px, 15px;
+    margin: 50px;
+    margin-top: -70px 
+    
+}
+
+button {
+    background-color: #10B981;
+    color: white;
+    font-size: 15px;
+    font-weight: 20px;
+    border: none
+}
+
+hr{
+    border-top: 0.1px #282729c2;
+    margin-top: -20px;
+}
+#password {
+    color: silver;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#userInput {
+height: 30px;
+width: 130px;
+border-radius: 6px;
+border: none;
+background-color: #10B981;
+color: white;
+}
+
+::placeholder {
+    color: #DEDADF;
+    font-style: italic;
+    font-size: 14px;
+    padding: 5px;  
+}
+
+#btn2 {
+height: 30px;
+width: 100px;
+border-radius: 6px;
+border: none;
+background-color: #10B981;
+color: white;
+margin-top: 50px;
+margin-left: 52px;
+}
